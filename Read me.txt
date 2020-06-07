@@ -1,0 +1,17 @@
+This project contains:
+
+The distance measurement between the object and the sensor is monitored 
+using ultrasonic sensor and raspberry pi. The code in python language. 
+The code is present in "ultrasonic senor and raspberrypi.py" file
+
+The distance measurement is also executed in proteus software using arduino.
+The code is provided in "ultrasonic sensor with arduino in proteus.ino" file.
+
+The gps data is sent via a gsm module which is also done in proteus using arduino.
+The code is available in "gps and gsm using arduino in proteus.ino" file.
+
+The circuit connection of the arduino and ultrasonic sensor is shown in the
+"ultasonic with lcd.png" file.
+
+The circuit connection of the arduino with gsm and gps is shown in the "gps gsm.png" 
+file.
