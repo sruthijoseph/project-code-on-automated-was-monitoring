@@ -1,1 +1,1 @@
-# project-code-on-automated-was-monitoring
+# project-code-on-automated-waste-monitoring
